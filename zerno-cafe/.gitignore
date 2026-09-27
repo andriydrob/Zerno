@@ -1,0 +1,6 @@
+README.md
+node_modules/
+.astro/
+dist/
+.env
+.DS_Store
