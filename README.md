@@ -1,18 +1,18 @@
-# ☕ Zerno — Specialty Coffee Shop
+# Zerno — Specialty Coffee Shop
 
 A modern, responsive website for Zerno, a specialty coffee shop in Kyiv, Ukraine. Built with Astro, React, TypeScript, and Tailwind CSS, the project combines a clean interface with a warm, coffee-inspired visual identity.
 
-🌐 **Live Demo:** [zerno-omega.vercel.app](https://zerno-omega.vercel.app)
+**Live Demo:** [zerno-omega.vercel.app](https://zerno-omega.vercel.app)
 
 ---
 
-## 📖 Overview
+## Overview
 
 Zerno is a website designed to showcase a specialty coffee shop, its story, menu, and location through a modern and intuitive user experience.
 
 The project focuses on clean design, reusable components, maintainable code, and responsive layouts. Its component-based architecture separates individual website sections from the main page structure, making the application easier to maintain and extend.
 
-## ✨ Features
+## Features
 
 - **Modern UI** — A clean interface with a coffee-inspired visual identity.
 - **Responsive Layout** — Designed to provide a consistent experience across desktop and mobile screens.
@@ -25,7 +25,7 @@ The project focuses on clean design, reusable components, maintainable code, and
 - **SEO Foundation** — Includes a `robots.txt` file for search engine crawler instructions.
 - **Production Deployment** — Hosted on Vercel.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 | --- | --- |
@@ -36,7 +36,7 @@ The project focuses on clean design, reusable components, maintainable code, and
 | [Vercel](https://vercel.com/) | Deployment and hosting |
 | npm | Package management |
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Zerno/
@@ -114,7 +114,7 @@ Zerno/
 | `public/favicon.svg` | Browser tab icon. |
 | `public/robots.txt` | Search engine crawler instructions. |
 
-## 🏗️ Architecture
+## Architecture
 
 Zerno uses a component-based architecture that combines Astro's page rendering capabilities with React components for interactive UI.
 
@@ -127,7 +127,7 @@ Zerno uses a component-based architecture that combines Astro's page rendering c
 
 The homepage is defined in `src/pages/index.astro`, while the individual sections are organized in `src/components/`.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally.
 
@@ -180,7 +180,7 @@ npm run preview
 
 > The commands above assume `package.json` defines the standard Astro scripts. Check the scripts section in `package.json` if a command is unavailable.
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Command | Description |
 | --- | --- |
@@ -188,7 +188,7 @@ npm run preview
 | `npm run build` | Builds the website for production. |
 | `npm run preview` | Previews the production build locally. |
 
-## 🌍 Deployment
+## Deployment
 
 The project is deployed on [Vercel](https://vercel.com/).
 
@@ -201,7 +201,7 @@ To deploy your own instance:
 
 Vercel can also be configured to redeploy the website automatically when changes are pushed to the connected GitHub repository.
 
-## 🎨 Design Principles
+## Design Principles
 
 The website is built around several design principles:
 
@@ -211,7 +211,7 @@ The website is built around several design principles:
 - **Responsiveness** — A layout intended to work across different screen sizes.
 - **Brand Identity** — A visual direction inspired by specialty coffee culture.
 
-## 🔮 Potential Improvements
+## Potential Improvements
 
 Possible future enhancements include:
 
@@ -223,7 +223,7 @@ Possible future enhancements include:
 - Automated tests and continuous integration.
 - Performance monitoring and Core Web Vitals optimization.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and bug reports are welcome.
 
@@ -233,7 +233,7 @@ Contributions, suggestions, and bug reports are welcome.
 4. Push the branch to your fork.
 5. Open a pull request describing your changes.
 
-## 📄 License
+## License
 
 No license has been specified in this README. Unless a license is added to the repository, the project's reuse and redistribution permissions should not be assumed.
 
